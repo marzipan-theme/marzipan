@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath43">
+      <path
+         style="display:inline;fill:#ffaaee;stroke-width:0.0201955"
+         d="m 0.27827297,4.9747702 c 0,0 2.65915503,1.8583334 5.88381113,2.1905082 C 9.38674,7.4974531 12.487181,7.6365742 15.429087,10.251252 L 16,0 H 0 Z"
+         id="path43" />
+    </clipPath>
+  </defs>
+  <ellipse
+     style="display:inline;fill:#070812;stroke-width:0.0153106"
+     id="path3"
+     cx="8.3964453"
+     cy="8.2758417"
+     rx="6.2374077"
+     ry="4.7924681" />
+  <g
+     id="g9"
+     clip-path="url(#clipPath43)"
+     transform="translate(0,2)">
+    <g
+       id="g43"
+       transform="rotate(-8.4777039,8.9736545,10.064095)">
+      <path
+         id="rect1-3"
+         style="fill:#ffe399;stroke-width:0.0195312"
+         d="m 13.740469,2.3265574 0.396256,0.4369765 c 0.180481,0.1804809 0.29225,0.43075 0.29225,0.70775 v 8.0000001 l -1,1 z" />
+      <rect
+         style="fill:#fffbba;stroke-width:0.0195312"
+         id="rect1"
+         width="10"
+         height="10"
+         x="4"
+         y="2"
+         ry="1"
+         rx="1" />
+      <rect
+         style="fill:#fccaff;stroke-width:0.0218075"
+         id="rect2"
+         width="4.25"
+         height="4.25"
+         x="4.5"
+         y="2.5"
+         ry="0.5"
+         rx="0.5" />
+      <rect
+         style="fill:#ffbdf8;stroke-width:0.0221354"
+         id="rect2-3"
+         width="4.25"
+         height="4.25"
+         x="9.25"
+         y="2.5"
+         ry="0.5"
+         rx="0.5" />
+      <rect
+         style="fill:#fccaff;stroke-width:0.0221354"
+         id="rect2-3-1"
+         width="4.25"
+         height="4.25"
+         x="9.25"
+         y="7.25"
+         ry="0.5"
+         rx="0.5" />
+      <rect
+         style="fill:#ffbdf8;stroke-width:0.0221353"
+         id="rect2-3-3"
+         width="4.25"
+         height="4.25"
+         x="4.5"
+         y="7.25"
+         ry="0.53125"
+         rx="0.53125" />
+    </g>
+  </g>
+  <path
+     style="fill:#ffaaee;stroke-width:0.0201954"
+     d="m 0.27827295,6.9419531 c 0,0 2.65915545,1.8583335 5.88381115,2.1905083 C 9.3867396,9.4646362 12.487181,9.6037572 15.429087,12.218435 12.468048,11.425027 3.0153306,11.60768 2.5154477,9.995062 2.0155648,8.3824439 0.27827295,6.9419531 0.27827295,6.9419531 Z"
+     id="path2" />
+  <path
+     d="M 15.429087,12.218435 C 8.5698627,9.8580257 6.2310146,11.773266 2.5154477,9.995062 1.3360962,9.4306451 0.57091345,8.7871097 0.57091345,8.7871097 1.7116372,9.7150615 2.1016818,11.111909 2.5,12.5 6.4415098,13.698104 9.5530534,11.104207 15.429087,12.218435 Z"
+     style="fill:#ffd388;stroke-width:0.0201954"
+     id="path1-3" />
+  <path
+     d="M 15.429087,12.218435 C 8.6627036,9.6037562 6.1620841,11.910653 2.5154477,9.995062 1.3579754,9.3870368 0.57091345,8.7871097 0.57091345,8.7871097 1.6762217,9.7569749 1.861264,10.680197 2.2075162,12.082182 c 3.8940651,1.344325 7.3911994,-1.19643 13.2215708,0.136253 z"
+     style="fill:#fff1a9;stroke-width:0.0201954"
+     id="path1" />
+</svg>

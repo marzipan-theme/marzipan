@@ -1,0 +1,49 @@
+GIMP Palette
+Name: Marzipan
+Columns: 4
+
+# Base
+
+007 008 018 Dark 1
+016 016 034 Dark 2
+033 030 057 Dark 3
+061 054 086 Dark 4
+
+207 213 253 Light 1
+198 199 244 Light 2
+187 183 229 Light 3
+168 160 205 Light 4
+
+# Main Colours
+
+252 202 255 Primary Light
+255 189 248 Primary
+255 170 238 Primary Dark
+255 151 230 Primary Darker
+
+255 251 186 Secondary Light
+255 241 169 Secondary
+255 227 153 Secondary Dark
+255 211 136 Secondary Darker
+
+227 248 255 Tertiary Light
+210 242 255 Tertiary
+184 223 255 Tertiary Dark
+152 189 249 Tertiary Darker
+
+# Extra Colours
+
+255 208 213 Extra Red Light
+255 196 198 Extra Red
+253 177 178 Extra Red Dark
+249 151 153 Extra Red Darker
+
+230 255 207 Extra Green Light
+216 255 190 Extra Green
+189 250 165 Extra Green Dark
+153 241 137 Extra Green Darker
+
+230 198 255 Extra Purple Light
+232 188 255 Extra Purple
+229 175 255 Extra Purple Dark
+223 156 253 Extra Purple Darker

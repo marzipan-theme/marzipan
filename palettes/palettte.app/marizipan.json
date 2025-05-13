@@ -1,0 +1,62 @@
+[
+  {
+    "paletteName": "Neutral",
+    "swatches": [
+      { "name": "Dark 1", "color": "070812" },
+      { "name": "Dark 2", "color": "101022" },
+      { "name": "Dark 3", "color": "211E39" },
+      { "name": "Dark 4", "color": "3D3656" },
+      { "name": "SEPERATOR", "color": "1B1B1B" },
+      { "name": "Light 4", "color": "A8A0CD" },
+      { "name": "Light 3", "color": "BBB7E5" },
+      { "name": "Light 2", "color": "C6C7F4" },
+      { "name": "Light 1", "color": "CFD5FD" }
+    ]
+  },
+  {
+    "paletteName": "Primary",
+    "swatches": [
+      { "name": "Darker 2", "color": "FF97E6" },
+      { "name": "Darker 1", "color": "FFAAEE" },
+      { "name": "Base", "color": "FFBDF8" },
+      { "name": "Lighter 1", "color": "FCCAFF" }
+    ]
+  },
+  {
+    "paletteName": "Secondary",
+    "swatches": [
+      { "name": "Darker 2", "color": "FFD388" },
+      { "name": "Darker 1", "color": "FFE399" },
+      { "name": "Base", "color": "FFF1A9" },
+      { "name": "Lighter 1", "color": "FFFBBA" }
+    ]
+  },
+  {
+    "paletteName": "Tertiary",
+    "swatches": [
+      { "name": "Darker 2", "color": "98BDF9" },
+      { "name": "Darker 1", "color": "B8DFFF" },
+      { "name": "Base", "color": "D2F2FF" },
+      { "name": "Lighter 1", "color": "E3F8FF" }
+    ]
+  },
+  {
+    "paletteName": "Quartenary",
+    "swatches": [
+      { "name": "Darker 2", "color": "F99799" },
+      { "name": "Darker 1", "color": "FDB1B2" },
+      { "name": "Base", "color": "FFC4C6" },
+      { "name": "Lighter 1", "color": "FFD0D5" },
+      { "name": "SEPERATOR", "color": "1A1A1A" },
+      { "name": "Darker 2", "color": "99F189" },
+      { "name": "Darker 1", "color": "BDFAA5" },
+      { "name": "Base", "color": "D8FFBE" },
+      { "name": "Lighter 1", "color": "E6FFCF" },
+      { "name": "SEPERATOR", "color": "1A1A1A" },
+      { "name": "Darker 2", "color": "DF9CFD" },
+      { "name": "Darker 1", "color": "E5AFFF" },
+      { "name": "Base", "color": "E8BCFF" },
+      { "name": "Lighter 1", "color": "E6C6FF" }
+    ]
+  }
+]
